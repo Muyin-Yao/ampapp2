@@ -17,6 +17,9 @@
       },
       "api": {
         "ampapp2": {}
+      },
+      "storage": {
+        "imagestore": {}
       }
     }
   }
